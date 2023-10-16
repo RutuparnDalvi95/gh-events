@@ -1,3 +1,3 @@
 # gh-events
 
-Shut yor meowth!!
+Sht yor meowth!!
