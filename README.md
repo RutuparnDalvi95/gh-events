@@ -1,3 +1,3 @@
 # gh-events
 
-Sht yor meowth!
+Fail lure!
