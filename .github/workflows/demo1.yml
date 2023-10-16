@@ -5,6 +5,8 @@ on:
       - closed
     branches:
       - 'dev-*'
+    paths:
+      - '**.md'
 jobs:
   deploy:
     runs-on: ubuntu-latest
