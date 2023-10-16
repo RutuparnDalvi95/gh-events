@@ -1,3 +1,3 @@
 # gh-events
 
-Shut your meowth !!
+Shut your meow!!
