@@ -3,6 +3,8 @@ on:
   pull_request:
     types:
       - closed
+    branches:
+      - 'dev-*'
 jobs:
   deploy:
     runs-on: ubuntu-latest
